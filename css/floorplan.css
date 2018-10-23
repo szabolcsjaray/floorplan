@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    display: grid;
+}
+
+.fDiv {
+    width:90%;
+    height:90%;
+    background-color: rgb(192, 226, 226);
+    margin:auto;
+}
+
+#plan {
+     width:90%;
+     height:80%;
+     top:20px;
+     left:40px;
+     display:block;
+     background-color: rgb(221, 211, 211);
+     position: relative;
+}
