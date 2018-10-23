@@ -9,14 +9,26 @@ html, body {
     height:90%;
     background-color: rgb(192, 226, 226);
     margin:auto;
+    display:flex;
 }
 
 #plan {
      width:90%;
      height:80%;
-     top:20px;
+     top:30px;
      left:40px;
      display:block;
      background-color: rgb(221, 211, 211);
      position: relative;
+}
+
+#menu {
+    display:block;
+    background-color: rgb(194, 226, 201);
+    position: relative;
+    right:0px;
+    top:30px;
+    width:10%;
+    height:80%;
+
 }
